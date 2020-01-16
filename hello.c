@@ -6,5 +6,6 @@
 
 int main(void) {
   printf("Anh Quoc Nguyen\n");
+  printf("Computer Engineering\n", );
   return 0;
 }
